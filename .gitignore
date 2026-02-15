@@ -42,3 +42,7 @@ coverage/
 
 # NVM file
 .nvmrc
+
+.*
+test-*
+student-guide
